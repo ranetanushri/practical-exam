@@ -1,0 +1,14 @@
+key_argument
+INPUT:
+for key_arguemnt 
+print("key_argument1 = ",arg1)
+print("key_argument2 = ",arg2)
+print("key_argument3 = ",arg3)
+key_argument(arg1= 400, arg2=600, arg3=750) 
+
+
+
+OUTPUT:
+key_argument1 = 400
+key_argument2 = 600
+key_argument3 = 750 
